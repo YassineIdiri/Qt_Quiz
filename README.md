@@ -11,7 +11,7 @@ Installe Qt with this link : https://www.qt.io/download-open-source
 ## Opening and compilation of the project
 
 ### Compile with Qt IDE
-Open the file Qt_Self-AssessmentQuiz.pro with Qt and compile the project.
+Open the file "Qt_Self-AssessmentQuiz.pro" with Qt and compile the project.
 
 ### Compile manually
  - Add the path to your QMake bin folder to the Windows PATH environment variable by using the following steps:
