@@ -25,7 +25,7 @@ Open the file Qt_Self-AssessmentQuiz.pro with Qt and compile the project.
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
- - open your terminal and go to the current directory (Qt_Self-AssessmentQuiz). 
+ - Open your terminal and go to the current directory (Qt_Self-AssessmentQuiz). 
  - Type the command
 ```bash
 qmake
