@@ -49,15 +49,15 @@ make
   
 # Presentation
 
-## Select the your grid and the game mode
+## Here is the interface with the question and the possible answers as well as the percentage of correct answer
   
 ![1](https://github.com/YassineProDev/Qt_Self-AssessmentQuiz/assets/120946916/9fdbe32e-623d-4695-83a9-2643fec219ce)
 
-## The grid is then displayed. Choose your direction.
+## if your answer is correct you will get the message "correct".
   
 ![2](https://github.com/YassineProDev/Qt_Self-AssessmentQuiz/assets/120946916/3e60bdad-6004-430d-9edd-35891db02874)
 
-## The player moves on the grid. Then all the wild animals move towards the player.
+## If your answer is wrong the correct answer will be given.
 
 ![3](https://github.com/YassineProDev/Qt_Self-AssessmentQuiz/assets/120946916/c94b90ac-d7cb-4aec-9916-28540dfcce42)
 
