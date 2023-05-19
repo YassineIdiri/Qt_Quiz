@@ -4,7 +4,7 @@
   
 </div> 
 
-## Installation of the development environment
+## Installation of the development environment 
 
 Installe Qt with this link : https://www.qt.io/download-open-source
 
